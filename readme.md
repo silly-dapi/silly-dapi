@@ -1,5 +1,5 @@
-<h2 align="left">HI! 👋 My name is Davi, and im from Surabaya, Indonesia.</h2>
-<h4 align="left">Im a student  at Universitas Pembangunan Nasional "Veteran" Jawa Timur Second Years 🏫</h4>
+<h2 align="left">HI!👋My name is Davi.</h2>
+<h4 align="left">I'm a student  at Universitas Pembangunan Nasional "Veteran" Jawa Timur🏫</h4>
 
 ###
 
@@ -12,20 +12,12 @@
 - Git & GitHub
 - ChatGPT
 
-###
+📌 **I'm Interested in...**
+- Web Development
+- And maybe Full Stack Developer (hopefully)
 
 ###
 
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGw2cW9jNWNpcnQ5NnF1bHdyY3lpandoNW52OWIzNGJkcG1kanhmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfDQJpaPmjyIHV089x/giphy.gif)
 
-###
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<h3 align="left">But this is also me when my Professor give me an assignment.</h3>
