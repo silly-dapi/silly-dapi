@@ -1,9 +1,7 @@
 <h2 align="left">HI! 👋 My name is Davi, and im from Surabaya, Indonesia.</h2>
-
-###
-
 <h4 align="left">Im a student  at Universitas Pembangunan Nasional "Veteran" Jawa Timur Second Years 🏫</h4>
 
+###
 
 🌱 **Currently Learning**  
 - C & C++ in Advanced Programming Course (3rd Semester)
@@ -12,6 +10,7 @@
 - Windows 11
 - VSCode 
 - Git & GitHub
+- ChatGPT
 
 ###
 
