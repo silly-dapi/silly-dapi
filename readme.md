@@ -21,6 +21,8 @@
   <img height="360" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNuMjNtY3NzMXNhOWZuemxscWltbG95ZHR0NWltZWhiMzdxdjV6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AfDQJpaPmjyIHV089x/giphy.gif"  />
 </div>
 
+###
+
 🌱 **Currently Learning**  
 - C & C++ in Advanced Programming Course (3rd Semester)
 
@@ -33,9 +35,5 @@
 📌 **I'm Interested in...**
 - Web Development
 - And maybe Full Stack Developer (hopefully)
-
-###
-
-<img src="https://raw.githubusercontent.com/dapi-pdf/dapi-pdf/output/snake.svg" alt="Snake animation" />
 
 ###
